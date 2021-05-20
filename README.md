@@ -36,6 +36,6 @@ Together we share the vision of an awakened humanity, happy, healthy, aware, car
 
 __Every feedback is greatly appreciated!__ We are creating this story together and we would be more than happy to integrate the features you want. Please, tell us what you liked, what you would like to change, or what you would love to see in the second part. 
 
-If you’d like to support us, you can do so by **rating this experience**, by **joining our Discord** or by **sharing this experience**<-- donating an amount of your choice via itch.io -->!
+If you’d like to support us, you can do so by **rating this experience**, by **joining our Discord** or by **sharing this experience**!
 
 # [Join us on Discord](https://discord.gg/5SvKDuCkp7)
